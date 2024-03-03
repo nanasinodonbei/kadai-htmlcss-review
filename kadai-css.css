@@ -2,21 +2,23 @@
 
 header {
 height: 50px;
+width: 1000px;
 background-color: #ffcccc;
 }
 #wrapper {
-height: 1000px;
+width: 1000px;
 display: flex;
 }
 #main {
-width: 700%;
+width: 700px;
 background-color: #ccffcc;
 }
 #menu {
-width: 300%;
+width: 300px;
 background-color: #ccccff;
 }
 footer {
+width:1000px;
 height: 50px;
 background-color: #ffccff;
 }
